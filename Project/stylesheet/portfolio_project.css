@@ -202,7 +202,7 @@ footer {
     padding: 10px;
     padding-top: 3%; /* This ensures there is space between the top of the column and our headings */
     height: 400px; /* This sets the height of the column to 400px - this may need to be adjusted depending on the text you enter */
-    background-color: cornsilk; /* sets the background color of the columns with class Column_1 */
+    background-color: silver; /* sets the background color of the columns with class Column_1 */
 }
 
 /* Screens 576px and smaller will display a scroll bar if the text overflows the column height */
@@ -218,7 +218,7 @@ footer {
     padding: 10px;
     padding-top: 1.9%;
     height: 400px;
-    background-color: darkcyan;
+    background-color: darkslategray;
 }
 
 /* This class is applied to the columns in the final row, overriding the height and padding to provide more room for the contact form while keeping the rest of the formatting from Column_1 or Column_2 */

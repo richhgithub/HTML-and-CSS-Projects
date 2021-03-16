@@ -1,6 +1,6 @@
 # HTML-and-CSS-Projects
 
-This is a display of sample websites that I made using HTML and CSS.
+*This is a display of sample websites that I made using HTML and CSS.*
 
 ## **_Projects_**
 Movie Theater Site - academy_cinemas.html
